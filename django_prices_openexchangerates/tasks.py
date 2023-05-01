@@ -1,6 +1,3 @@
-from __future__ import division
-from __future__ import unicode_literals
-
 from decimal import Decimal
 
 import requests
